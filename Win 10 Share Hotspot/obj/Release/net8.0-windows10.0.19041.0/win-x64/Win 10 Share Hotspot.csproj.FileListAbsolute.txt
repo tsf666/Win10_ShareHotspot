@@ -1,0 +1,15 @@
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\bin\Release\net8.0-windows10.0.19041.0\win-x64\Win10ShareHotspot.exe
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\bin\Release\net8.0-windows10.0.19041.0\win-x64\Win10ShareHotspot.deps.json
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\bin\Release\net8.0-windows10.0.19041.0\win-x64\Win10ShareHotspot.runtimeconfig.json
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\bin\Release\net8.0-windows10.0.19041.0\win-x64\Win10ShareHotspot.dll
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\bin\Release\net8.0-windows10.0.19041.0\win-x64\Microsoft.Windows.SDK.NET.dll
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\bin\Release\net8.0-windows10.0.19041.0\win-x64\WinRT.Runtime.dll
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\Win 10 Share Hotspot.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\Win 10 Share Hotspot.AssemblyInfoInputs.cache
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\Win 10 Share Hotspot.AssemblyInfo.cs
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\Win 10 Share Hotspot.csproj.CoreCompileInputs.cache
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\Win 10 S.A1D7B383.Up2Date
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\Win10ShareHotspot.dll
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\refint\Win10ShareHotspot.dll
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\Win 10 Share Hotspot.genruntimeconfig.cache
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Release\net8.0-windows10.0.19041.0\win-x64\ref\Win10ShareHotspot.dll

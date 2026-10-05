@@ -1,0 +1,4 @@
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Debug\net8.0-windows\Win 10 Share Hotspot.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Debug\net8.0-windows\Win 10 Share Hotspot.AssemblyInfoInputs.cache
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Debug\net8.0-windows\Win 10 Share Hotspot.AssemblyInfo.cs
+D:\0-English-path\Bat\Win 10 Share Hotspot\Win 10 Share Hotspot\Win 10 Share Hotspot\obj\Debug\net8.0-windows\Win 10 Share Hotspot.csproj.CoreCompileInputs.cache
